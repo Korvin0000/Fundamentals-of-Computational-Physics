@@ -1,3 +1,5 @@
+#Solution for a problem 
+
 import pylab as pl
 import numpy as np
 
