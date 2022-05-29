@@ -25,8 +25,8 @@ def dBessel_0 (x, N):
 
 
 Max = []
-N = 12
-M = 12
+N = 120
+M = 120
 Abs_Sum = []
     
 sum_0 = abs((-3*Integr_Simpson(0, M, Bessel_0)+4*Integr_Simpson(0+2*np.pi/N, M, Bessel_0) - Integr_Simpson(0+4*np.pi/N, M, Bessel_0))*N/4/np.pi + Integr_Simpson(0, M, Bessel_1))
