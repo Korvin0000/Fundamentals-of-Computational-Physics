@@ -1,8 +1,6 @@
 import pylab as pl
 import numpy as np
 
-
-
 a = 2 #width of well
 U_0 = 20 #depth of well
 C = np.sqrt(1/(2 * U_0 * a**2))
