@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Korvin0000
+- 👋 Hi, I’m @Korvin0000/Nick!)
 - 👀 I’m interested in Optics!
 - 🌱 I’m currently learning Python for processing data of my experiments
 - 💞️ I’m looking for intresting projects!
