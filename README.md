@@ -6,4 +6,4 @@ Hi! In this repository, I want to represent my tasks dedicated to course of comp
 **2 Task**
 ![image](https://user-images.githubusercontent.com/87599571/170982067-87c2fd34-86f1-4fde-aaa6-cf4e0ab1f4ea.png)
 **3 Task**
-![image](https://user-images.githubusercontent.com/87599571/170982208-8a8aa0a6-1441-4203-9faf-8416228194f5.png
+![image](https://user-images.githubusercontent.com/87599571/170982528-acd6f81c-c4ec-4fbe-862f-b1bd72fa6dbb.png)
